@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Aug 31 14:16:45 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MainReadCSV0901.jar
+manifest.mergeall=true
+manifest.mainclass=com.autonavi.main.MainProcessCSVFile
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
